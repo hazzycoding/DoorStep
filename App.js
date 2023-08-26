@@ -4,7 +4,7 @@ import React from 'react';
 const App = () => {
   return (
     <SafeAreaView>
-      <Text style={styles.txt}>App</Text>
+      <Text style={styles.txt}>AppP</Text>
     </SafeAreaView>
   );
 };
