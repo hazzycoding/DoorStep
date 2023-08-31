@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712320809242",
+    "project_id": "door-step-54505",
+    "storage_bucket": "door-step-54505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712320809242:android:c5b961f79123d8faf594a3",
+        "android_client_info": {
+          "package_name": "com.doorstep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712320809242-dn9s3grikk3ehu14d9tg9o4rfsq6lo6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh5SDDqDMAUTlMFf3EfGBSU5dU7YFMDlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712320809242-dn9s3grikk3ehu14d9tg9o4rfsq6lo6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

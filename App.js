@@ -1,20 +1,13 @@
-import {Text, StyleSheet, SafeAreaView} from 'react-native';
 import React from 'react';
+import {NavigationContainer} from '@react-navigation/native';
+import MainStack from './src/navigation/MainStack';
 
 const App = () => {
   return (
-    <SafeAreaView>
-      <Text style={styles.txt}>App</Text>
-    </SafeAreaView>
+    <NavigationContainer>
+      <MainStack />
+    </NavigationContainer>
   );
 };
 
 export default App;
-
-const styles = StyleSheet.create({
-  txt: {
-    color: 'black',
-    fontFamily: 'Fuzzy Bubbles Regular',
-    fontSize: 60,
-  },
-});

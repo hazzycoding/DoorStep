@@ -74,6 +74,7 @@ android {
     compileSdkVersion rootProject.ext.compileSdkVersion
 
     namespace "com.doorstep"
+    apply plugin: 'com.google.gms.google-services'
     defaultConfig {
         applicationId "com.doorstep"
         minSdkVersion rootProject.ext.minSdkVersion
